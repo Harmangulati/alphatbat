@@ -30,18 +30,23 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	
+	img_image="Alpkey.png";
+	add();
 }
 function numberkey()
 {
-	
+	img_image="numkey.png";
+	add();	
 }
 function arrowkey()
 {
+	img_image="Arrkey.png";
+	add();
 }
 function specialkey()
 {
-	
+	img_image="spkey.png";
+	add();
 }
 function otherkey()
 {
